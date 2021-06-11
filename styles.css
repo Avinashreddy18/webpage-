@@ -1,0 +1,84 @@
+body
+{
+font-size:16px;
+color:#fff;
+background-color:brown;
+font-family:'Oxygen',sans-serif;
+}
+#header-nav{
+background-color:yellow;
+border-radius:0;
+border:0;
+}
+#logo{
+background:url('p.jpg')no-repeat;
+width:150px;
+height:150px;
+margin:15px 15px 10px 0;
+}
+.navbar-band{
+padding-top:25px;
+}
+.navbar-band h1{
+font-family:'lora',serif;
+color:#557c3e;
+font-size:1.5em;
+text-transform:uppercase;
+font-weight:bold;
+text-shadow:1px 1px 1px #222;
+margin-top:0;
+margin-bottom:0;
+line-height:.75;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+text-decoration:none;
+}
+.navbar-brand p{
+color:#000;
+text-transform:uppercase;
+font-size:.7em;
+margin-top:15px;
+}
+.navbar-brand p span{
+vertical-align:middle;
+}
+.menu{
+  margin:15px; 
+}
+.main-title{
+  font-weight: bold;
+  margin-top: -3px;
+}
+.menu-content{ 
+  margin: 20px 20px 20px 20px;
+  
+}
+.menu-title{
+  font-weight: bold;
+text-align:center;
+}
+.menu-item{
+  margin-bottom: 20px;
+  background:#999999;  
+  padding: 10px;
+}
+.menu-item h4 {
+  font-weight: bold;
+}
+.menu-item p{
+  font-weight:600;
+  font-size: .9em;
+  padding: 5px 10px;
+}
+
+  .menu{
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom: 15px;
+  }
+  .menu-item p{
+    font-weight: 600;
+    font-size: 1em;
+    padding:5px 15px;
+  }
